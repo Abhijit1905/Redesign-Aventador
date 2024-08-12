@@ -1,0 +1,131 @@
+
+.bentobig{
+    height: 100vh;
+    background-color: white;
+    position: relative;
+}
+.mainbox
+{
+    position: absolute;
+    height: 150px;
+    width: 672px;
+    left: 32%;
+    top:10%;
+    border-radius: 45px;
+    background-color: black;
+}
+.brakes
+{
+    position: absolute;
+    height:412px;
+    width: 316px;
+    left: 14%;
+    top:10%;
+    border-radius: 45px;
+    background-color: black;
+}
+.braketext{
+    padding-top: 35px;
+}
+.enginedes
+{
+    position: absolute;
+    height: 280px;
+    width: 316px;
+    background-color:#f0f1f1;
+    left: 14%;
+    top: 56.5%;
+    border-radius: 45px;
+}
+.videobig{
+    position: absolute;
+    height: 550px;
+    width: 672px;
+    background-color: black;
+    border-radius: 45px;
+    left: 32%;
+    top: 28%;
+    video{
+       border-radius: 45px; 
+    }
+}
+.rightengine{
+    position: absolute;
+    width: 316px;
+    height: 348px;
+    border-radius: 45px;
+    background-color: #f0f1f1;
+    left:68.5%;
+    top:10%;
+}
+.suspension
+{
+    position:absolute;
+    width: 316px;
+    height:348px;
+    border-radius: 45px;
+    background-color: black;
+    left: 68.5%;
+    top:49%;
+}
+.suspensiondiv{
+    margin-top: -90px;
+}
+.suspensionimg{
+    width: 130px;
+}
+.suspensiontext{
+    padding-top: 35px;
+}
+.subsuspensiontext
+{
+    margin-top: -80px;
+    padding: 0 20px;
+}
+.mainlogo{
+    padding-left: 30px;
+    padding-right: 15px;
+}
+.mainlogoo{
+    width: 100px;
+    height: 110px;
+    
+}
+.line{
+    width: 2px;
+    height: 90px;
+     background-color: white;
+}
+.logotext{
+    padding-left: 15px;
+    padding-top: 10px;
+    
+}
+.logotextp{
+    font-family: "Gotham", sans-serif;
+    font-weight: 300;
+    font-size: 38.7px;
+    color: white;
+    padding: 0;
+}
+.brakesimg{
+    width:260px;
+    padding-top:8px;
+    padding-bottom:19px ;
+}
+.othertext{
+    font-family: 'Gotham' , sans-serif;
+    font-size: 38.7px;
+    font-weight: 300;
+    color: #f0f1f1;
+}
+.subothertext{
+    font-size: 21.7px;
+    color: #f0f1f1;
+    text-align: center;
+    padding: 0px 10px;
+}
+.subotherspan{
+    color: #f0f1f1;
+    font-weight: 500;
+}

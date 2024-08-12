@@ -1,0 +1,66 @@
+.heropic img{
+     max-width: 977px;
+}
+.featuresbig{
+    height: 100vh;
+    position: relative;
+}
+.test{
+    height: 100vh;
+    background-color: aqua;
+}
+.heropic{
+    position: absolute;
+    left: 23%;
+    top: 10%;
+}
+.featurestext{
+    font-family: "Gotham",sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+}
+.featurespan{
+    font-family: "Gotham",sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    color: black;
+}
+.engine{
+    position: absolute;
+    top: 38%;
+    left: 25%;
+    max-width: 300px;
+}
+.body{
+    position: absolute;
+    top: 22%;
+    left: 42%;
+    max-width: 280px;
+    text-align: center;
+}
+.wings{
+    position: absolute;
+    top: 28%;
+    left: 62%;
+    max-width: 230px;
+    text-align: right;
+}
+.below{
+    max-width: 600px;
+    text-align: center;
+    position: absolute;
+    top: 70%;
+    left: 33%;
+}
+.front{
+    position: absolute;
+    width: 130px;
+    top:61.5%;
+    left:18.2%
+}
+.rear{
+    position: absolute;
+    top:60.5%;
+    width: 135px;
+    left: 72%;;
+}
